@@ -64,7 +64,7 @@ namespace TestProject1
         {
             double expected = 7777F; // TODO: Initialize to an appropriate value
             double actual;           
-            actual = 888;
+            actual = 8887;
             Assert.AreNotEqual(expected, actual);   
         }
     }

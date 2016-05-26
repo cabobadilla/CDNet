@@ -95,7 +95,7 @@
     </VisualStudio>
   </ProjectExtensions>
   <PropertyGroup>
-    <PostBuildEvent>"C:\Program Files (x86)\NUnit\nunit-console\nunit3-console.exe" "$(SolutionDir)TestProject1\TestProject1.csproj"
+    <PostBuildEvent>
 </PostBuildEvent>
   </PropertyGroup>
 </Project>
