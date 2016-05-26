@@ -1,0 +1,14 @@
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\WebApplication1\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\WebApplication1\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\WebApplication1\TestProject1\bin\Debug\WebApplication1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\WebApplication1\TestProject1\bin\Debug\WebApplication1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\WebApplication1\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\WebApplication1\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\WebApplication1\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Debug\WebApplication1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Debug\WebApplication1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\obj\Debug\TestProject1.pdb

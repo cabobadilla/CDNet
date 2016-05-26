@@ -1,0 +1,7 @@
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Release\TestProject1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Release\TestProject1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Release\WebApplication1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Release\WebApplication1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\obj\Release\TestProject1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\obj\Release\TestProject1.pdb

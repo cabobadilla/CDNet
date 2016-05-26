@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3f2ce1b5-0af2-4e7d-b99f-e6b88cb93b5c" name="luis.f.ronquillo@MW7WNGASYW9U2V 2016-05-26 16:48:42" runUser="DIR\luis.f.ronquillo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="d23b1277-be79-4bc7-bdd6-5159b90a5c26">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestResults\luis.f.ronquillo_MW7WNGASYW9U2V 2016-05-26 16_48_42">
+      <DeploymentItem filename="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1\bin\WebApplication1.dll" />
+    </Deployment>
+    <Plugins>
+      <Plugin>Microsoft.VisualStudio.TestTools.HostAdapters.AspNetPlugin, Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAgent</Plugin>
+    </Plugins>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2016-05-26T16:48:42.5574199-05:00" queuing="2016-05-26T16:48:44.1462376-05:00" start="2016-05-26T16:48:44.3732830-05:00" finish="2016-05-26T16:48:47.7859654-05:00" />
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\luis.f.ronquillo\documents\github\netjenkinstest\netprojtest\testproject1\bin\release\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="f546f3b2-3558-496f-81f2-80f7cf7ad07d" />
+      <TestMethod codeBase="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Release\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="numTest" storage="c:\users\luis.f.ronquillo\documents\github\netjenkinstest\netprojtest\testproject1\bin\release\testproject1.dll" id="68776cc0-0264-ca37-bec3-c40c80af1b6e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="bb2564d7-1876-46b2-a6d2-faf151d38cb0" />
+      <TestMethod codeBase="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Release\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1._DefaultTest, TestProject1" name="numTest" />
+      <AspNet webSiteUrl="http://localhost:31991">
+        <Host pathToWebApp="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="68776cc0-0264-ca37-bec3-c40c80af1b6e" executionId="bb2564d7-1876-46b2-a6d2-faf151d38cb0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="f546f3b2-3558-496f-81f2-80f7cf7ad07d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bb2564d7-1876-46b2-a6d2-faf151d38cb0" testId="68776cc0-0264-ca37-bec3-c40c80af1b6e" testName="numTest" computerName="MW7WNGASYW9U2V" duration="00:00:00.0255446" startTime="2016-05-26T16:48:45.7270537-05:00" endTime="2016-05-26T16:48:47.2863655-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreNotEqual failed. Expected any value except:&lt;7777&gt;. Actual:&lt;7777&gt;. </Message>
+          <StackTrace>   at TestProject1._DefaultTest.numTest() in C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\_DefaultTest.cs:line 82
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f546f3b2-3558-496f-81f2-80f7cf7ad07d" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="MW7WNGASYW9U2V" duration="00:00:00.0115185" startTime="2016-05-26T16:48:47.3308744-05:00" endTime="2016-05-26T16:48:47.6404363-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

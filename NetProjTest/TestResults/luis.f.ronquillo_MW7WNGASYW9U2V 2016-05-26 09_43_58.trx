@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5fe33c45-2c77-4159-8b87-4c8e568134d6" name="luis.f.ronquillo@MW7WNGASYW9U2V 2016-05-26 09:43:58" runUser="DIR\luis.f.ronquillo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="d23b1277-be79-4bc7-bdd6-5159b90a5c26">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestResults\luis.f.ronquillo_MW7WNGASYW9U2V 2016-05-26 09_43_58">
+      <DeploymentItem filename="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1\bin\WebApplication1.dll" />
+    </Deployment>
+    <Plugins>
+      <Plugin>Microsoft.VisualStudio.TestTools.HostAdapters.AspNetPlugin, Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAgent</Plugin>
+    </Plugins>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2016-05-26T09:43:58.3764695-05:00" queuing="2016-05-26T09:43:59.9094695-05:00" start="2016-05-26T09:44:00.1459695-05:00" finish="2016-05-26T09:44:29.2829695-05:00" />
+  <TestDefinitions>
+    <UnitTest name="numTest" storage="c:\users\luis.f.ronquillo\documents\github\netjenkinstest\netprojtest\testproject1\bin\debug\testproject1.dll" id="68776cc0-0264-ca37-bec3-c40c80af1b6e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e5e72888-b1c9-4f0e-939f-059f08662148" />
+      <TestMethod codeBase="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\bin\Debug\TestProject1.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1._DefaultTest, TestProject1" name="numTest" />
+      <AspNet webSiteUrl="http://localhost:31991/">
+        <Host pathToWebApp="C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="68776cc0-0264-ca37-bec3-c40c80af1b6e" executionId="e5e72888-b1c9-4f0e-939f-059f08662148" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e5e72888-b1c9-4f0e-939f-059f08662148" testId="68776cc0-0264-ca37-bec3-c40c80af1b6e" testName="numTest" computerName="MW7WNGASYW9U2V" duration="00:00:00.0306293" startTime="2016-05-26T09:44:28.0994695-05:00" endTime="2016-05-26T09:44:29.0964695-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at TestProject1._DefaultTest.numTest() in C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject1\_DefaultTest.cs:line 82
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

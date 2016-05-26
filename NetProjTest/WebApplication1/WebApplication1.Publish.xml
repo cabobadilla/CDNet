@@ -1,0 +1,13 @@
+<publishData>
+  <publishTarget publishUrl="C:\wssite\">
+    <file relUrl="bin/WebApplication1.dll" publishTime="05/26/2016 09:00:29" />
+    <file relUrl="Default.aspx.cs" publishTime="05/26/2016 09:00:28" />
+    <file relUrl="Web.config" publishTime="05/26/2016 08:34:36" />
+    <file relUrl="Default.aspx" publishTime="05/26/2016 09:00:42" />
+    <file relUrl="Default.aspx.designer.cs" publishTime="05/26/2016 08:38:23" />
+    <file relUrl="bin/WebApplication1.pdb" publishTime="05/26/2016 09:00:29" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="05/26/2016 08:34:36" />
+    <file relUrl="WebApplication1.csproj.user" publishTime="05/26/2016 08:34:38" />
+    <file relUrl="WebApplication1.csproj" publishTime="05/26/2016 08:34:38" />
+  </publishTarget>
+</publishData>
