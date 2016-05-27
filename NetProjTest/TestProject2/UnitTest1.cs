@@ -2,14 +2,15 @@
 using System.Text;
 using System.Collections.Generic;
 using System.Linq;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+//using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace TestProject2
 {
     /// <summary>
     /// Summary description for UnitTest1
     /// </summary>
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
         public UnitTest1()
@@ -59,7 +60,7 @@ namespace TestProject2
         //
         #endregion
 
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             double expected = 7777F; // TODO: Initialize to an appropriate value
@@ -68,13 +69,13 @@ namespace TestProject2
             Assert.AreNotEqual(expected, actual);  
         }
 
-        [TestMethod]
+        [Test]
         public void TestMethod2()
         {
             double expected = 7777F; // TODO: Initialize to an appropriate value
             double actual;
             actual = 8887;
-            Assert.AreEqual(expected, actual);
+            Assert.AreNotEqual(expected, actual);
         }
     }
 }
