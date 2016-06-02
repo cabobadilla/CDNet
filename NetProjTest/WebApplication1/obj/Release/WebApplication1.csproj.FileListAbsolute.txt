@@ -3,3 +3,5 @@ C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplica
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1\obj\Release\ResolveAssemblyReference.cache
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1\obj\Release\WebApplication1.dll
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1\obj\Release\WebApplication1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1\bin\ClassLibrary1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\WebApplication1\bin\ClassLibrary1.pdb

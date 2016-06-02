@@ -8,6 +8,10 @@
 </head>
 <body>
 Hola mundo <%= this.num %>
+<br />
+--> <%= this.cl1.data1 %>
+<br />
+--> <%= this.cl2.data2 %>
     <form id="form1" runat="server">
     <div>
     

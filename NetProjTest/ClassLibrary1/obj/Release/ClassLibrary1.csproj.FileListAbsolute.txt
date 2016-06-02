@@ -1,0 +1,5 @@
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\ClassLibrary1\obj\Release\ClassLibrary1.pdb

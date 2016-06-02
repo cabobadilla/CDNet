@@ -1,7 +1,7 @@
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\bin\Release\TestProject2.dll
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\bin\Release\TestProject2.pdb
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\bin\Release\nunit.framework.dll
+C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\bin\Release\nunit.framework.xml
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\obj\Release\ResolveAssemblyReference.cache
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\obj\Release\TestProject2.dll
 C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\obj\Release\TestProject2.pdb
-C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\bin\Release\nunit.framework.dll
-C:\Users\luis.f.ronquillo\Documents\GitHub\NEtJenkinsTest\NetProjTest\TestProject2\bin\Release\nunit.framework.xml

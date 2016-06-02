@@ -67,6 +67,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{3D8994FE-CFB9-4460-AA94-5329222C9716}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
     <Folder Include="App_Data\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
@@ -77,6 +83,8 @@
   </Target>
   <Target Name="AfterBuild">
   </Target>
+  WebProjectOutputDir - where website will be published
+  OutDir - where all assemblies should be placed (bin folder>
   -->
   <ProjectExtensions>
     <VisualStudio>
@@ -96,6 +104,6 @@
   </ProjectExtensions>
   <PropertyGroup>
     <PostBuildEvent>
-</PostBuildEvent>
+    </PostBuildEvent>
   </PropertyGroup>
 </Project>
